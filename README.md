@@ -11,3 +11,7 @@ PM2.5 density value (μg/m3)	Air quality index	Air quality level	Air quality eva
 250-500	≥300	Level 6	Serious pollution
 
 
+pour la connectique sur le capteur :
+chez Farnell le boitier 6 voies  ZHR-6 :  Code Commande :  3357570 
+et chez Radiospares les fils avec les pins femelles deja connectees : Code commande RS 820-1630
+
